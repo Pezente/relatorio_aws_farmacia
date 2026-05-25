@@ -1,25 +1,28 @@
-Objetivo
+# Objetivo
 
 O Amazon EC2 será utilizado para hospedar os sistemas internos da Abstergo Industries, permitindo maior escalabilidade, segurança e redução de custos com infraestrutura física.
 
-Principais Benefícios
-Redução de gastos com servidores locais
-Escalabilidade sob demanda
-Alta disponibilidade dos sistemas
-Monitoramento contínuo
-Pagamento apenas pelos recursos utilizados
-Processo de Implementação
-Criar conta na AWS
-Configurar instâncias EC2
-Definir sistema operacional adequado
-Configurar regras de segurança
-Migrar sistemas internos para a nuvem
-Realizar testes de desempenho e disponibilidade
-Recursos Recomendados
-Instâncias t3.medium para aplicações administrativas
-Armazenamento EBS para bancos de dados
-Elastic Load Balancer para distribuição de tráfego
-Auto Scaling para aumento automático de capacidade
-Resultado Esperado
+# Principais Benefícios
+* Redução de gastos com servidores locais
+* Escalabilidade sob demanda
+* Alta disponibilidade dos sistemas
+* Monitoramento contínuo
+* Pagamento apenas pelos recursos utilizados
+
+# Processo de Implementação
+1. Criar conta na AWS
+2. Configurar instâncias EC2
+3. Definir sistema operacional adequado
+4. Configurar regras de segurança
+5. Migrar sistemas internos para a nuvem
+6. Realizar testes de desempenho e disponibilidade
+
+# Recursos Recomendados
+* Instâncias t3.medium para aplicações administrativas
+* Armazenamento EBS para bancos de dados
+* Elastic Load Balancer para distribuição de tráfego
+* Auto Scaling para aumento automático de capacidade
+
+# Resultado Esperado
 
 Redução de custos com manutenção de servidores físicos e aumento da disponibilidade dos sistemas da empresa.
