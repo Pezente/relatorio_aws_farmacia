@@ -1,4 +1,4 @@
-# Objetivo
+# Objetivo 
 
 O Amazon EC2 será utilizado para hospedar os sistemas internos da Abstergo Industries, permitindo maior escalabilidade, segurança e redução de custos com infraestrutura física.
 
