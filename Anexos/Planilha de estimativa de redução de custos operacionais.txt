@@ -5,12 +5,13 @@
 | Processos operacionais    | Processos manuais e servidores ativos 24h  | AWS Lambda               | Redução de até 35%              |
 
 
-Considerações Financeiras
-Eliminação de custos com manutenção física
-Menor consumo de energia elétrica
-Redução de falhas operacionais
-Melhor aproveitamento de recursos computacionais
-Crescimento escalável sem grandes investimentos iniciais
-Resultado Esperado
+# Considerações Financeiras
+* Eliminação de custos com manutenção física
+* Menor consumo de energia elétrica
+* Redução de falhas operacionais
+* Melhor aproveitamento de recursos computacionais
+* Crescimento escalável sem grandes investimentos iniciais
+
+# Resultado Esperado
 
 A empresa poderá reduzir significativamente seus custos operacionais e aumentar sua capacidade tecnológica sem necessidade de expansão física da infraestrutura.
