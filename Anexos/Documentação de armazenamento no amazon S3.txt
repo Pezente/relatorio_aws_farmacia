@@ -1,28 +1,30 @@
-Objetivo
+# Objetivo
 
 Implementar armazenamento seguro e centralizado para documentos fiscais, backups, relatórios e arquivos logísticos da empresa.
 
-Benefícios do Amazon S3
-Alta durabilidade dos dados
-Backup automatizado
-Baixo custo de armazenamento
-Controle de acesso avançado
-Recuperação rápida de arquivos
-Estrutura Recomendada
-Buckets sugeridos
-abstergo-documentos
-abstergo-backups
-abstergo-relatorios
-abstergo-logs
-Políticas de Segurança
-Criptografia habilitada
-Controle de acesso por usuários IAM
-Versionamento de arquivos ativo
-Backup automático configurado
-Estratégia de Redução de Custos
-Utilização do S3 Standard para arquivos ativos
-Migração automática para S3 Glacier em arquivos antigos
-Exclusão automatizada de arquivos temporários
-Resultado Esperado
+# Benefícios do Amazon S3
+* Alta durabilidade dos dados
+* Backup automatizado
+* Baixo custo de armazenamento
+* Controle de acesso avançado
+* Recuperação rápida de arquivos
+
+# Estrutura Recomendada
+## Buckets sugeridos
+* abstergo-documentos
+* abstergo-backups
+* abstergo-relatorios
+* abstergo-logs
+## Políticas de Segurança
+* Criptografia habilitada
+* Controle de acesso por usuários IAM
+* Versionamento de arquivos ativo
+* Backup automático configurado
+## Estratégia de Redução de Custos
+* Utilização do S3 Standard para arquivos ativos
+* Migração automática para S3 Glacier em arquivos antigos
+* Exclusão automatizada de arquivos temporários
+
+# Resultado Esperado
 
 Maior segurança dos dados corporativos e redução dos custos de armazenamento físico.
